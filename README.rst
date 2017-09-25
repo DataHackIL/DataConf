@@ -4,7 +4,7 @@ DataConf
 
 This is a list of agendas and resources of past and upcoming iterations of the DataConf data science conference by `DataHack <http://datahack-il.com/>`_. 
 
-You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
+You can find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
 |
 
@@ -18,6 +18,7 @@ DataConf 2016
 =============
 
 **Facebook event page:** https://www.facebook.com/events/555816034629213
+
 **Meetup event page:** https://www.meetup.com/preview/DataHack/events/234096133
 
 Prof. Shai Shalev Shwartz, The Hebrew University of Jerusalem - Reinforcement Learning
