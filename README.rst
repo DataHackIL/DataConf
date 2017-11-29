@@ -4,7 +4,7 @@ DataConf
 `DataConf <http://dataconf.org/>`_ is a casual data science conference by `DataHack <http://datahack-il.com/>`_.
 
 
-This is a list of agendas and resources of past and upcoming iterations of conference.
+This is a list of agendas and resources of past and upcoming iterations of the conference.
 
 You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
