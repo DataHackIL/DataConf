@@ -111,3 +111,14 @@ Alex Ran, Intuit - Using Data Science for Automated Accounting
 **Title:** Using Data Science for Automated Accounting
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intuit_Alex_Ran.pdf
+
+|
+
+Meir Maor, SparkBeyond - Developing Simple and Stable Machine Learning Models
+-----------------------------------------------------------------------------
+
+**Speaker:** Meir Maor, Chief Architect @ SparkBeyond
+
+**Title:** Developing Simple and Stable Machine Learning Models
+
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_SparkBeyond_Meir_Maor.pdf
