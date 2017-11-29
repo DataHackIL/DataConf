@@ -64,3 +64,32 @@ Dr. Yoram Gdalyahu, VP algorithms, Mobileye - Autonomous Driving and Crowd Mappi
 Guy Adini, Istra - Toy Models for Algorithmic Trading 
 -----------------------------------------------------
 
+
+DataConf 2017
+=============
+
+**Event website:** http://dataconf.org/
+
+**Meetup event page:** https://www.meetup.com/DataHack/events/244004618/
+
+**Facebook event page:** https://www.facebook.com/events/1623405514382356/
+
+
+Yakov Shambik, Mobileye - Eye of the Beholder: Object detection in Mobileye using Deep Neural Networks and other techniques
+---------------------------------------------------------------------------------------------------------------------------
+
+**Speaker:** Yakov Shambik, Vehicles Detection Technology Manager @ Mobileye
+
+**Title:** Eye of the Beholder: Object detection in Mobileye using Deep Neural Networks and other techniques
+
+**Slides:** ?
+
+
+Ofer Ron, LivePerson - Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
+---------------------------------------------------------------------------------------------------------------------------
+
+**Speaker:** Ofer Ron, Head of Data Science @ LivePerson
+
+**Title:** Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
+
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_LivePerson_Ofer_Ron.pdf
