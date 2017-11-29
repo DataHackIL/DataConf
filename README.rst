@@ -1,10 +1,12 @@
 DataConf
 ########
 
+`DataConf <http://dataconf.org/>`_ is a casual data science conference by `DataHack <http://datahack-il.com/>`_.
 
-This is a list of agendas and resources of past and upcoming iterations of the DataConf data science conference by `DataHack <http://datahack-il.com/>`_. 
 
-You can find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
+This is a list of agendas and resources of past and upcoming iterations of conference.
+
+You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
 |
 
@@ -64,9 +66,12 @@ Dr. Yoram Gdalyahu, VP algorithms, Mobileye - Autonomous Driving and Crowd Mappi
 Guy Adini, Istra - Toy Models for Algorithmic Trading 
 -----------------------------------------------------
 
+|
 
 DataConf 2017
 =============
+
+Held on Thursday, October 26th, between 09:00 and 18:00, `DataConf 2017 <http://dataconf.org/>`_ drew a crowd of over 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
 
 **Event website:** http://dataconf.org/
 
@@ -74,6 +79,7 @@ DataConf 2017
 
 **Facebook event page:** https://www.facebook.com/events/1623405514382356/
 
+|
 
 Yakov Shambik, Mobileye - Eye of the Beholder: Object detection in Mobileye using Deep Neural Networks and other techniques
 ---------------------------------------------------------------------------------------------------------------------------
@@ -84,6 +90,7 @@ Yakov Shambik, Mobileye - Eye of the Beholder: Object detection in Mobileye usin
 
 **Slides:** ?
 
+|
 
 Ofer Ron, LivePerson - Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
 ---------------------------------------------------------------------------------------------------------------------------
