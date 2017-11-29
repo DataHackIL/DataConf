@@ -100,3 +100,14 @@ Ofer Ron, LivePerson - Concepts before machinery: Harnessing the power of domain
 **Title:** Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_LivePerson_Ofer_Ron.pdf
+
+|
+
+Alex Ran, Intuit - Using Data Science for Automated Accounting
+--------------------------------------------------------------
+
+**Speaker:** Alex Ran, Distinguished Engineer @ Intuit
+
+**Title:** Using Data Science for Automated Accounting
+
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intuit_Alex_Ran.pdf
