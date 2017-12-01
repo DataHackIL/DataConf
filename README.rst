@@ -155,7 +155,7 @@ Gil Chamiel, Taboola - Don’t believe everything your network tells you: Uncert
 
 **Title:** Don’t believe everything your network tells you: Uncertainty in deep learning for recommender systems
 
-**Slides:** ?
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Taboola_Gil_Chamiel.pdf
 
 
 
@@ -169,7 +169,7 @@ Adina Lederhendler, Neura - General vs. subpopulation-specific modeling: When an
 
 **Title:** General vs. subpopulation-specific modeling: When and why you need to get specific
 
-**Slides:** ?
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Neura_Adina_Lederhandler.pdf
 
 
 
@@ -195,7 +195,7 @@ Itamar Ben-Ari, Research Scientist @ Intel - Differentiable Memory Allocation Me
 
 **Title:** Differentiable Memory Allocation Mechanism For Neural Computing
 
-**Slides:** ?
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intel_Itamar_Ben_Ari.pdf
 
 
 
@@ -208,4 +208,4 @@ Dr. Oshri, Rafael - Multi-agent deep reinforcement learning in communication net
 
 **Title:** Multi-agent deep reinforcement learning in communication networks
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Rafael.pdf
