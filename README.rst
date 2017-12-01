@@ -23,14 +23,17 @@ DataConf 2016
 
 **Meetup event page:** https://www.meetup.com/preview/DataHack/events/234096133
 
+|
 
 Prof. Shai Shalev Shwartz, The Hebrew University of Jerusalem - Reinforcement Learning
 --------------------------------------------------------------------------------------
 
+|
 
 Shahar Weinstock, Intel - Customers discovery using machine learning
 --------------------------------------------------------------------
 
+|
 
 Adi Nesher, PayPal - Defining the right label: How to create a valuable population tag in situations of uncertainty
 ------------------------------------------------------------------------------------
@@ -40,14 +43,17 @@ Adi Nesher, PayPal - Defining the right label: How to create a valuable populati
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2016/Smart_Labeling_of_Machine_Learning_Problems.pdf
 
+|
 
 Assaf Feldman, CTO, Riskified - Feature engineering at scale
 ------------------------------------------------------------
 
+|
 
 Olha Shainoha, Wix - Site topic classification at Wix
 -----------------------------------------------------
 
+|
 
 Amalia Bryl & Shahar Wilner, EDvantage - Can machine learning empower education?
 --------------------------------------------------------------------------------
@@ -58,10 +64,12 @@ Amalia Bryl & Shahar Wilner, EDvantage - Can machine learning empower education?
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2016/Edvantage-Machine_learning_and_edtech.pdf
 
+|
 
 Dr. Yoram Gdalyahu, VP algorithms, Mobileye - Autonomous Driving and Crowd Mapping
 ----------------------------------------------------------------------------------
 
+|
 
 Guy Adini, Istra - Toy Models for Algorithmic Trading 
 -----------------------------------------------------
