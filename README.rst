@@ -134,3 +134,70 @@ Roii Spoliansky, PayPal - Active learning optimization as a function of label co
 **Title:** Active learning optimization as a function of label cost and mistake cost
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_PayPal_Roii_Spoliansky.pdf
+
+
+
+
+|
+
+Gil Chamiel, Taboola - Don’t believe everything your network tells you: Uncertainty in deep learning for recommender systems
+-----------------------------------------------------------------------------
+
+**Speaker:** Gil Chamiel, Director of Data Science and Algorithms @ Taboola
+
+**Title:** Don’t believe everything your network tells you: Uncertainty in deep learning for recommender systems
+
+**Slides:** ?
+
+
+
+
+|
+
+Adina Lederhendler, Neura - General vs. subpopulation-specific modeling: When and why you need to get specific
+-----------------------------------------------------------------------------
+
+**Speaker:** Adina Lederhendler, Senior Data Scientist @ Neura
+
+**Title:** General vs. subpopulation-specific modeling: When and why you need to get specific
+
+**Slides:** ?
+
+
+
+|
+
+Yonatan Wexler, Orcam - Fast and Furious Face Recognition: Efficient metric learning for video stream data
+-----------------------------------------------------------------------------
+
+**Speaker:** Yonatan Wexler, VP R&D @ Orcam
+
+**Title:** Fast and Furious Face Recognition: Efficient metric learning for video stream data
+
+**Slides:** ?
+
+
+
+|
+
+Itamar Ben-Ari, Research Scientist @ Intel - Differentiable Memory Allocation Mechanism For Neural Computing
+-----------------------------------------------------------------------------
+
+**Speaker:** Itamar Ben-Ari, Research Scientist @ Intel
+
+**Title:** Differentiable Memory Allocation Mechanism For Neural Computing
+
+**Slides:** ?
+
+
+
+|
+
+Dr. Oshri, Rafael - Multi-agent deep reinforcement learning in communication networks
+-----------------------------------------------------------------------------
+
+**Speaker:** Dr. Oshri, Senior Research Scientist @ Rafael
+
+**Title:** Multi-agent deep reinforcement learning in communication networks
+
+**Slides:** 
