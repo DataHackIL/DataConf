@@ -122,3 +122,15 @@ Meir Maor, SparkBeyond - Developing Simple and Stable Machine Learning Models
 **Title:** Developing Simple and Stable Machine Learning Models
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_SparkBeyond_Meir_Maor.pdf
+
+
+|
+
+Roii Spoliansky, PayPal - Active learning optimization as a function of label cost and mistake cost
+-----------------------------------------------------------------------------
+
+**Speaker:** Roii Spoliansky, Lead Data Scientist @ PayPal
+
+**Title:** Active learning optimization as a function of label cost and mistake cost
+
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_PayPal_Roii_Spoliansky.pdf
