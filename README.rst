@@ -182,7 +182,7 @@ Yonatan Wexler, Orcam - Fast and Furious Face Recognition: Efficient metric lear
 
 **Title:** Fast and Furious Face Recognition: Efficient metric learning for video stream data
 
-**Slides:** ?
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Orcam_Yonatan_Wexler.pdf
 
 
 
