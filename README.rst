@@ -6,7 +6,7 @@ DataConf
 
 This is a list of agendas and resources of past and upcoming iterations of the conference.
 
-You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
+You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_. 
 
 |
 
