@@ -107,6 +107,8 @@ Ofer Ron, LivePerson - Concepts before machinery: Harnessing the power of domain
 
 **Title:** Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
 
+**Video:** https://www.youtube.com/watch?v=wR2u7V8D5Y8&t=0s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=3
+
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_LivePerson_Ofer_Ron.pdf
 
 |
@@ -117,6 +119,8 @@ Alex Ran, Intuit - Using Data Science for Automated Accounting
 **Speaker:** Alex Ran, Distinguished Engineer @ Intuit
 
 **Title:** Using Data Science for Automated Accounting
+
+**Video:** https://www.youtube.com/watch?v=_ZBos8T35D0&t=21s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=2
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intuit_Alex_Ran.pdf
 
@@ -194,6 +198,8 @@ Itamar Ben-Ari, Research Scientist @ Intel - Differentiable Memory Allocation Me
 **Speaker:** Itamar Ben-Ari, Research Scientist @ Intel
 
 **Title:** Differentiable Memory Allocation Mechanism For Neural Computing
+
+**Video:** https://www.youtube.com/watch?v=DAHTNElXXgk&t=398s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=4
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intel_Itamar_Ben_Ari.pdf
 
