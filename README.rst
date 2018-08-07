@@ -107,7 +107,7 @@ Ofer Ron, LivePerson - Concepts before machinery: Harnessing the power of domain
 
 **Title:** Concepts before machinery: Harnessing the power of domain expertise for machine-learning-based solutions
 
-**Video:** https://www.youtube.com/watch?v=wR2u7V8D5Y8&t=0s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=3
+**Video:** https://www.youtube.com/watch?v=wR2u7V8D5Y8&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=3
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_LivePerson_Ofer_Ron.pdf
 
@@ -120,7 +120,7 @@ Alex Ran, Intuit - Using Data Science for Automated Accounting
 
 **Title:** Using Data Science for Automated Accounting
 
-**Video:** https://www.youtube.com/watch?v=_ZBos8T35D0&t=21s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=2
+**Video:** https://www.youtube.com/watch?v=_ZBos8T35D0&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=2
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intuit_Alex_Ran.pdf
 
@@ -173,6 +173,8 @@ Adina Lederhendler, Neura - General vs. subpopulation-specific modeling: When an
 
 **Title:** General vs. subpopulation-specific modeling: When and why you need to get specific
 
+**Video:** https://www.youtube.com/watch?v=ft36Tq5FUz0&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=4
+
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Neura_Adina_Lederhandler.pdf
 
 
@@ -199,7 +201,7 @@ Itamar Ben-Ari, Research Scientist @ Intel - Differentiable Memory Allocation Me
 
 **Title:** Differentiable Memory Allocation Mechanism For Neural Computing
 
-**Video:** https://www.youtube.com/watch?v=DAHTNElXXgk&t=398s&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=4
+**Video:** https://www.youtube.com/watch?v=DAHTNElXXgk&list=PLZYkt7161wELbPfqY92vAEmKVhsyxg5Nk&index=4
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Intel_Itamar_Ben_Ari.pdf
 
