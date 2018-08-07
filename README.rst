@@ -96,7 +96,7 @@ Yakov Shambik, Mobileye - Eye of the Beholder: Object detection in Mobileye usin
 
 **Title:** Eye of the Beholder: Object detection in Mobileye using Deep Neural Networks and other techniques
 
-**Slides:** ?
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Mobileye_Yakov_Shambik.pdf
 
 |
 
