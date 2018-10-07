@@ -217,3 +217,27 @@ Dr. Oshri, Rafael - Multi-agent deep reinforcement learning in communication net
 **Title:** Multi-agent deep reinforcement learning in communication networks
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Rafael.pdf
+
+|
+
+DataConf 2017
+=============
+
+Held on Thursday, October 4th, between 09:00 and 18:00, `DataConf 2018 <http://dataconf.org/>`_ drew a crowd of over 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
+
+**Event website:** http://dataconf.org/
+
+**Meetup event page:** https://www.meetup.com/DataHack/events/255082526/
+
+**Facebook event page:** https://www.facebook.com/events/1967922793269453/
+
+|
+
+Dana Kaner, Perimter X - Bootstrap, Random Forest and all sorts of magic
+------------------------------------------------------------------------
+
+**Speaker:** Dana Kaner, Data Scientist @ Perimeter X
+
+**Title:** Bootstrap, Random Forest and all sorts of magic
+
+**Slides:** 
