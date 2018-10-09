@@ -217,3 +217,137 @@ Dr. Oshri, Rafael - Multi-agent deep reinforcement learning in communication net
 **Title:** Multi-agent deep reinforcement learning in communication networks
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2017/DataConf_2017_Rafael.pdf
+
+|
+
+DataConf 2017
+=============
+
+Held on Thursday, October 4th, between 09:00 and 18:00, `DataConf 2018 <http://dataconf.org/>`_ drew a crowd of over 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
+
+**Event website:** http://dataconf.org/
+
+**Meetup event page:** https://www.meetup.com/DataHack/events/255082526/
+
+**Facebook event page:** https://www.facebook.com/events/1967922793269453/
+
+|
+
+Dana Kaner, Perimter X - Bootstrap, Random Forest and ll sorts of magic
+------------------------------------------------------------------------
+
+**Speaker:** Dana Kaner, Data Scientist @ Perimeter X
+
+**Title:** Bootstrap, Random Forest and all sorts of magic
+
+**Slides:** 
+
+|
+
+Pavel Levin, Booking.com - Where should I travel next? Modeling multi-destination trips with Recurrent Neural Networks.
+-----------------------------------------------------------------------------------------------------------------------
+
+**Speaker:** Pavel Levin, Senior Data Scientist @ Booking.com
+
+**Title:** Where should I travel next? Modeling multi-destination trips with Recurrent Neural Networks.
+
+**Slides:** 
+
+|
+
+Ari Bornstien, Microsoft - Beyond Word Embeddings
+-----------------------------------------------
+
+**Speaker:** Ari Bornstien, Senior Cloud Developer Advocate @ Microsoft
+
+**Title:** Beyond Word Embeddings
+
+**Slides:** 
+
+|
+
+Michal Shmueli-Scheuer, IBM Research - Conversational bots for customer support
+-------------------------------------------------------------------------------
+
+**Speaker:** Michal Shmueli-Scheuer, Researcher @ IBM Research
+
+**Title:** Conversational bots for customer support
+
+**Slides:** 
+
+|
+
+Nofar Betzalel, Paypal - Semi-Supervised Learning – to extend our Tagging Coverage
+----------------------------------------------------------------------------------
+
+**Speaker:** Nofar Betzalel, Data Scientist @ Paypal
+
+**Title:** Semi-Supervised Learning – to extend our Tagging Coverage
+
+**Slides:** 
+
+|
+
+Dr. Lev Faivishevsky, Intel Advanced Analytics - Using Deep-Learning to Detect Video distortions
+------------------------------------------------------------------------------------------------
+
+**Speaker:** Dr. Lev Faivishevsky, Researcher @ Intel Advanced Analytics
+
+**Title:** Using Deep-Learning to Detect Video distortions
+
+**Slides:** 
+
+|
+
+Danny Pfeffermann, Central Bureau for Statistics - Can Big Data Really Replace Traditional Surveys for theProduction of Official Statistics
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+**Speaker:** Danny Pfeffermann, National Statistician of Israel @ Central Bureau for Statistics
+
+**Title:** Can Big Data Really Replace Traditional Surveys for theProduction of Official Statistics
+
+**Slides:** 
+
+|
+
+Avi Hendler-Bloom, MobilEye - Overcoming the Electronic Traffic Sign Problem
+----------------------------------------------------------------------------
+
+**Speaker:** Avi Hendler-Bloom, Algorithms Developer @ MobilEye
+
+**Title:** Overcoming the Electronic Traffic Sign Problem
+
+**Slides:** 
+
+|
+
+Daniel Benzaquen, Lightricks - A\B testing at Scale
+--------------------------------------------------------
+
+**Speaker:** Daniel Benzaquen, Data Scientist @ Lightricks
+
+**Title:** A\B testing at Scale
+
+**Slides:** 
+
+|
+
+Gil Chamiel, Taboola - Deep And Shallow Learning in Recommendation Systems
+----------------------------------------------------------------------------
+
+**Speaker:** Gil Chamiel, Director of Algorithms and Data Science @ Taboola
+
+**Title:** Deep And Shallow Learning in Recommendation Systems
+
+**Slides:** 
+
+|
+
+Oren Shamir, Innoviz Technologies - Neural networks for point clouds: adding the 3rd dimension
+------------------------------------------------------------------------
+
+**Speaker:** Oren Shamir, Head of CV Algorithm Development @ Innoviz Technologies
+
+**Title:** Neural networks for point clouds: adding the 3rd dimension
+
+**Slides:** 
