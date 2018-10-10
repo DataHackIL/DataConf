@@ -220,10 +220,10 @@ Dr. Oshri, Rafael - Multi-agent deep reinforcement learning in communication net
 
 |
 
-DataConf 2017
+DataConf 2018
 =============
 
-Held on Thursday, October 4th, between 09:00 and 18:00, `DataConf 2018 <http://dataconf.org/>`_ drew a crowd of over 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
+Held on Thursday, October 4th, between 09:00 and 18:00, `DataConf 2018 <http://dataconf.org/>`_ drew a crowd of over a 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
 
 **Event website:** http://dataconf.org/
 
