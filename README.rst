@@ -240,7 +240,7 @@ Dana Kaner, Perimter X - Bootstrap, Random Forest and ll sorts of magic
 
 **Title:** Bootstrap, Random Forest and all sorts of magic
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_PerimeterX_Dana_Kaner.pdf
 
 |
 
@@ -251,7 +251,7 @@ Pavel Levin, Booking.com - Where should I travel next? Modeling multi-destinatio
 
 **Title:** Where should I travel next? Modeling multi-destination trips with Recurrent Neural Networks.
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Booking_Pavel_Levin.pdf
 
 |
 
@@ -262,7 +262,7 @@ Ari Bornstien, Microsoft - Beyond Word Embeddings
 
 **Title:** Beyond Word Embeddings
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Microsoft_Ari_Bornstein.pdf
 
 |
 
@@ -273,7 +273,7 @@ Michal Shmueli-Scheuer, IBM Research - Conversational bots for customer support
 
 **Title:** Conversational bots for customer support
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_IBM_Michal_Shmueli_Scheuer.pdf
 
 |
 
@@ -284,7 +284,7 @@ Nofar Betzalel, Paypal - Semi-Supervised Learning – to extend our Tagging Cove
 
 **Title:** Semi-Supervised Learning – to extend our Tagging Coverage
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_PayPal_Nofar_Betzalel.pdf
 
 |
 
@@ -295,7 +295,7 @@ Dr. Lev Faivishevsky, Intel Advanced Analytics - Using Deep-Learning to Detect V
 
 **Title:** Using Deep-Learning to Detect Video distortions
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Intel_Lev_Faivishevsky.pdf
 
 |
 
@@ -306,7 +306,7 @@ Danny Pfeffermann, Central Bureau for Statistics - Can Big Data Really Replace T
 
 **Title:** Can Big Data Really Replace Traditional Surveys for theProduction of Official Statistics
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Lamas_Danny_Pfeffermann.pdf
 
 |
 
@@ -317,7 +317,7 @@ Avi Hendler-Bloom, MobilEye - Overcoming the Electronic Traffic Sign Problem
 
 **Title:** Overcoming the Electronic Traffic Sign Problem
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Mobileye_Avi_Hendler_Bloom.pdf
 
 |
 
@@ -328,7 +328,7 @@ Daniel Benzaquen, Lightricks - A\B testing at Scale
 
 **Title:** A\B testing at Scale
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Lightricks_Daniel_Benzaquen.pdf
 
 |
 
@@ -339,7 +339,7 @@ Gil Chamiel, Taboola - Deep And Shallow Learning in Recommendation Systems
 
 **Title:** Deep And Shallow Learning in Recommendation Systems
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Taboola_Gil_Chamiel.pdf
 
 |
 
@@ -350,4 +350,4 @@ Oren Shamir, Innoviz Technologies - Neural networks for point clouds: adding the
 
 **Title:** Neural networks for point clouds: adding the 3rd dimension
 
-**Slides:** 
+**Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Booking_Innoviz_Shamir.pdf
