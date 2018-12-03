@@ -319,6 +319,8 @@ Avi Hendler-Bloom, MobilEye - Overcoming the Electronic Traffic Sign Problem
 
 **Title:** Overcoming the Electronic Traffic Sign Problem
 
+**Video:** https://www.youtube.com/watch?v=QN9gfUZUqDU
+
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Mobileye_Avi_Hendler_Bloom.pdf
 
 |
