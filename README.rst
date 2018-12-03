@@ -225,6 +225,8 @@ DataConf 2018
 
 Held on Thursday, October 4th, between 09:00 and 18:00, `DataConf 2018 <http://dataconf.org/>`_ drew a crowd of over a 100 data science and machine learning experts from the top companies in Israel for a day of knowledge sharing.
 
+**YouTube playlist:** https://www.youtube.com/playlist?list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53
+
 **Event website:** http://dataconf.org/
 
 **Meetup event page:** https://www.meetup.com/DataHack/events/255082526/
@@ -252,6 +254,8 @@ Pavel Levin, Booking.com - Where should I travel next? Modeling multi-destinatio
 **Speaker:** Pavel Levin, Senior Data Scientist @ Booking.com
 
 **Title:** Where should I travel next? Modeling multi-destination trips with Recurrent Neural Networks.
+
+**Video:** https://www.youtube.com/watch?v=pwfwUA4ZShI&t=0s&index=5&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Booking_Pavel_Levin.pdf
 
