@@ -395,7 +395,9 @@ Oren Shamir, Innoviz Technologies - Neural networks for point clouds: adding the
 
 **Speaker:** Oren Shamir, Head of CV Algorithm Development @ Innoviz Technologies
 
-**Title:** Neural networks for point clouds: adding the 3rd dimension
+**Title:** Neural networks for point clouds: Adding the 3rd Dimension
+
+**Video:** https://www.youtube.com/watch?v=aE3mfLm5dMA&t=0s&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53&index=11
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Booking_Innoviz_Shamir.pdf
 
