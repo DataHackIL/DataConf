@@ -285,7 +285,9 @@ Dr. Michal Shmueli-Scheuer, IBM Research - Conversational bots for customer supp
 
 **Speaker:** Dr. Michal Shmueli-Scheuer, Researcher @ IBM Research
 
-**Title:** Conversational bots for customer support
+**Title:** Conversational Bots for Customer Support
+
+**Video:** https://www.youtube.com/watch?v=i567nLfEGYs&t=0s&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53&index=9
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_IBM_Michal_Shmueli_Scheuer.pdf
 
