@@ -377,6 +377,8 @@ Gil Chamiel, Taboola - Deep And Shallow Learning in Recommendation Systems
 
 **Title:** Deep And Shallow Learning in Recommendation Systems
 
+**Video:** https://www.youtube.com/watch?v=nghXG5OiUno&index=12&t=0s&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53
+
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Taboola_Gil_Chamiel.pdf
 
 **Abstract:** A/B testing is a central statistical procedure used frequently by data-scientists. Unfortunately, the standard A/B testing framework was originally designed to cope with a handful number of tests, while these days, conducting tens and even hundreds of tests, simultaneously, is a common scenario. 
