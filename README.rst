@@ -313,7 +313,9 @@ Dr. Lev Faivishevsky, Intel Advanced Analytics - Using Deep-Learning to Detect V
 
 **Speaker:** Dr. Lev Faivishevsky, Researcher @ Intel Advanced Analytics
 
-**Title:** Using Deep-Learning to Detect Video distortions
+**Title:** Using Deep Learning to Detect Video Distortions
+
+**Video:** https://www.youtube.com/watch?v=FhMWZgs0kJ8&t=0s&index=8&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Intel_Lev_Faivishevsky.pdf
 
