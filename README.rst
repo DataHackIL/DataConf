@@ -293,12 +293,14 @@ Dr. Michal Shmueli-Scheuer, IBM Research - Conversational bots for customer supp
 
 |
 
-Nofar Betzalel, Paypal - Semi-Supervised Learning – to extend our Tagging Coverage
+Nofar Betzalel, Paypal - Semi-Supervised Learning for Tagging Coverage Extension
 ----------------------------------------------------------------------------------
 
 **Speaker:** Nofar Betzalel, Data Scientist @ Paypal
 
 **Title:** Semi-Supervised Learning – to extend our Tagging Coverage
+
+**Video:** https://www.youtube.com/watch?v=c4-3697xwys&index=7&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53&t=0s
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_PayPal_Nofar_Betzalel.pdf
 
