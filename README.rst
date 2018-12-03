@@ -332,6 +332,8 @@ Prof. Danny Pfeffermann, Central Bureau for Statistics - Can Big Data Really Rep
 
 **Title:** Can Big Data Really Replace Traditional Surveys for theProduction of Official Statistics
 
+**Video:** https://www.youtube.com/watch?v=OcD20PkNj-w&t=0s&list=PLZYkt7161wEIjQOuWA93Tt4JS8DgCyz53&index=10
+
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Lamas_Danny_Pfeffermann.pdf
 
 **Abstract:** The big advancements in technology, which enable to access and analyse 'big data', coupled with increased demand for more accurate, more detailed and more timely official data, but with tightened available budgets, puts inevitable pressure on producers of official statistics to replace traditional sample surveys by big data sources. In the first part of my presentation I shall discuss some of the major challenges in the use of big data for official statistics, pointing out their advantages and limitations. In the second part I shall consider a general class of statistical models, which can possibly link the big data under consideration to the corresponding target, finite population data. The use of a model in the class may allow estimating finite population parameters, without the need for reference samples or administrative files.
