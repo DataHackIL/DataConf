@@ -238,7 +238,9 @@ Dana Kaner, Perimter X - Bootstrap, Random Forest and ll sorts of magic
 
 **Speaker:** Dana Kaner, Data Scientist @ Perimeter X
 
-**Title:** Bootstrap, Random Forest and all sorts of magic
+**Title:** Bootstrap, Random Forest and All Sorts of Magic
+
+**Video:** https://www.youtube.com/watch?v=ynkJVd6B13U
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_PerimeterX_Dana_Kaner.pdf
 
@@ -327,6 +329,8 @@ Daniel Benzaquen, Lightricks - A\B testing at Scale
 **Speaker:** Daniel Benzaquen, Data Scientist @ Lightricks
 
 **Title:** A\B testing at Scale
+
+**Video:** https://www.youtube.com/watch?v=-k1X2MRgGlY
 
 **Slides:** https://github.com/DataHackIL/DataConf/blob/master/DataConf_2018/DataConf_2018_Lightricks_Daniel_Benzaquen.pdf
 
